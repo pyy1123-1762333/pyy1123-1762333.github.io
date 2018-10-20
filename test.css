@@ -44,6 +44,23 @@ li{
     background-color: #8E41D5; 
 }
 
+#RightNav{
+    width : 400px;
+    border : solid 8px black;
+    float : right;
+    text-align: center;
+    font-size: 20px;
+    font-family: Ink Free;
+    font-weight: bold;
+    padding-bottom: 8px;
+    background-color: #8E41D5; 
+}
+
+
+#RightNav ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
 #LeftNav img{
 
 }
